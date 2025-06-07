@@ -141,6 +141,8 @@ This project is focused on concept understanding and visualization.
 ---
 👤 Author
 Name: Fahim Akthar B
+
 Institution: Crescent Institute of Science & Technology
+
 Course: AI & ML – Week 3 Mini Project
-Date: 07/06/25
+07/06/2025
